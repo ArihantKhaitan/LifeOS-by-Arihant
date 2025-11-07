@@ -1,4 +1,4 @@
-# LifeOS by Arihant
+# LifeOS
 
 A modern, all-in-one personal life management application built with React, TypeScript, and Tailwind CSS. LifeOS helps you track your goals, manage expenses, log workouts, and organize your daily life in one beautiful, intuitive interface.
 
